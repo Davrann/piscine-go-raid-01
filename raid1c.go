@@ -2,7 +2,7 @@ package student
 
 import "github.com/01-edu/z01"
 
-func Raid1c	(x, y int) {
+func Raid1c(x, y int) {
 	var tl rune = 'A'
 	var tr rune = 'A'
 	var bl rune = 'C'
